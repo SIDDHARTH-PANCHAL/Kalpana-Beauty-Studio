@@ -1,0 +1,39 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Priya Sharma",
+      "rating": 5,
+      "comment": "Absolutely amazing makeup service! I felt so beautiful on my wedding day. The attention to detail was incredible.",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Anjali Patel",
+      "rating": 5,
+      "comment": "The mehndi designs were stunning and so intricate. Everyone at my wedding complimented the beautiful patterns. Highly recommend!",
+      "date": "2024-01-10"
+    },
+    {
+      "id": 3,
+      "name": "Sneha Reddy",
+      "rating": 4,
+      "comment": "Great experience overall. The nail art was beautiful and lasted for weeks. Will definitely come back!",
+      "date": "2024-01-08"
+    },
+    {
+      "id": 4,
+      "name": "Kavita Gupta",
+      "rating": 5,
+      "comment": "Professional service and amazing results! The HD makeup was perfect for my photoshoot. Thank you!",
+      "date": "2024-01-05"
+    },
+    {
+      "id": 5,
+      "name": "Meera Joshi",
+      "rating": 5,
+      "comment": "Best beauty studio in town! The staff is so professional and the results speak for themselves.",
+      "date": "2024-01-03"
+    }
+  ]
+}
