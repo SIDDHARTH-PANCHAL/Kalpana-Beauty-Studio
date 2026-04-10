@@ -6,9 +6,12 @@
 }
 
 :root {
-    --primary-color: #d4af37; /* Gold */
-    --secondary-color: #8b7355; /* Nude/Brown */
-    --accent-color: #ff69b4; /* Soft Pink */
+    --primary-color: #d4af37;
+    /* Gold */
+    --secondary-color: #8b7355;
+    /* Nude/Brown */
+    --accent-color: #ff69b4;
+    /* Soft Pink */
     --dark-color: #1a1a1a;
     --light-color: #f8f8f8;
     --text-dark: #333;
@@ -37,7 +40,12 @@ body {
 }
 
 /* Typography */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
     margin-bottom: 1rem;
@@ -563,7 +571,8 @@ h1, h2, h3, h4, h5, h6 {
 .instagram-float {
     position: fixed;
     bottom: 30px;
-    left: 30px;   /* 👈 opposite side */
+    left: 30px;
+    /* 👈 opposite side */
     width: 60px;
     height: 60px;
     background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
@@ -599,6 +608,7 @@ h1, h2, h3, h4, h5, h6 {
         opacity: 0;
         transform: translateY(30px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -610,6 +620,7 @@ h1, h2, h3, h4, h5, h6 {
         opacity: 0;
         transform: translateX(30px);
     }
+
     to {
         opacity: 1;
         transform: translateX(0);
