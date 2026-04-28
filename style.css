@@ -85,7 +85,7 @@ h6 {
 .nav-container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 1rem 20px;
+    padding: 0.5rem 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -151,7 +151,7 @@ h6 {
     width: 25px;
     height: 3px;
     background: var(--dark-color);
-    margin: 3px 0;
+    margin: 2px 0;
     transition: 0.3s;
 }
 
